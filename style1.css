@@ -1,0 +1,22 @@
+.he{
+     float: right;
+     border-radius: 50%;
+}
+.hee{
+    text-align: center;
+    color: black;
+}
+.heee{
+     text-align: center;
+     color: crimson;
+}
+.box{
+    color: darkgreen;
+    font-size: xx-large;
+}
+.tab{
+    margin-left: 12%;
+    border-collapse: collapse;
+    width: 70%;
+    text-align: left;
+}
